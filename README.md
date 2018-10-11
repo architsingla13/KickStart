@@ -17,3 +17,4 @@ Solutions to the Kickstart/CodeJam problems in Java
 |  Id  | Title           |  Solution       |  Time           | Space           | Difficulty    | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
 |1| [GBus count](https://code.google.com/codejam/contest/4374486/dashboard)      | [Java](./Programming/Kickstart2018/GBus/GBus.java)  | _O(n*n)_         | _O(1)_          | Easy         | Bookmarked, Only I/O learning|
+|2| [Even Digits](https://code.google.com/codejam/contest/9234486/dashboard)      | [Java](./Programming/Kickstart2018/EvenDigits/EvenDigits.java)  | _O(maxDigits in a number)_         | _O(1)_          | Easy         | Bookmarked, Just lower and higher number finding; Further opt. - if first odd digit is 9, higher number cannot be ans|
